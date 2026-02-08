@@ -1,0 +1,15 @@
+{
+  "name": "onchain-price-oracle-consumer",
+  "version": "1.0.0",
+  "description": "Chainlink Price Feed integration example",
+  "dependencies": {
+    "@chainlink/contracts": "^0.8.0"
+  },
+  "keywords": [
+    "chainlink",
+    "oracle",
+    "defi",
+    "ethereum",
+    "price-feed"
+  ]
+}
